@@ -1,0 +1,19 @@
+Cirno se našla u ćorsokaku - na engleskom "didn't street" - skoro svaki mogući put van ugla u kome se nalazi je pokriven sferama tamne energije obeleženim sa upitnikom ("?"). Cirno je obeležena sa C u donjem levom uglu, i može da se kreće na sledeći način:
+
+-Cirno ne sme da dodirne sferu tamne energije, tj. "?".
+
+-Cirno može da ode 1 polje ortogonalno ili dijagonalno, poput kralja u šahu.
+
+-Cirno može da se teleportuje 3 polja ortogonalno, preskačući 2 polja na putu.
+
+-Cirno neće da se vrati na prethodno posećena polja.
+
+-Teleportovanje je jako naporno i iscrpljuje magičnu energiju. Cirno odbija da se teleportuje osim kad je to jedini mogući potez.
+
+-Izlaz iz bullet hell lavirinta je polje u gornjem desnom uglu matrice, označeno sa A. Cirno mora da dođe do ovog polja.
+
+-Cirno ima dovoljno energije za ukupno 20 teleporta i 120 ukupno posećenih polja.
+
+Tajna se nalazi u posećenim poljima, tj. u karakterima na koje Cirno stane na putu do cilja.
+
+Ukoliko postoji više rešenja, validno je ono sa najmanjim brojem posećenih polja!
